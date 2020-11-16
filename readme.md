@@ -5,6 +5,6 @@ Ensembl-pull-seqs.py pulls orthologous sequences from the Ensembl API. By specif
 
 #### Use:
 
-python ensembl_seq_run.py -genes gene_list.txt -species species_list.txt
+python ensembl_seq_run.py -genes [gene_list.txt] -species [species_list.txt]
 
 * The species should be written in their binomial format i.e. homo sapiens

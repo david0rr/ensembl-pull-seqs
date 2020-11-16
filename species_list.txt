@@ -1,0 +1,12 @@
+Loxodonta africana  
+Dasypus novemcinctus 
+Homo sapiens 
+Mus musculus 
+sus scrofa 
+bos taurus
+canis lupus familiaris
+equus caballus
+oryctolagus cuniculus
+myotis lucifugus
+Monodelphis domestica
+gallus gallus 

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Bede Constantinides
+# David Orr
 # Usage python3 ensembl_seq_run.py <files_to_consider>
 
 import requests, sys

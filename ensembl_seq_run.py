@@ -15,7 +15,7 @@ def run(args):
 	genes = create_genelist(args.genelist)
 	species = create_specieslist(args.specieslist)
 	
-	if genetype == "symbol":
+	if args.genetype == "symbol":
 		pull_seqs_from_symbol(genes, species)
 	else:
 		pull_seqs_from_id(genes, species)	
